@@ -124,8 +124,7 @@ streamlit run app.py
 ```
 
 ### Access the App
-Open your browser and go to: `<img width="1919" height="924" alt="image" src="https://github.com/user-attachments/assets/260d9b58-0b92-4f91-9890-a2a4ff7b84a1" />
-`
+Open your browser and go to: `http://localhost:8501/`
 
 ## 📊 Usage
 
@@ -144,9 +143,10 @@ Open your browser and go to: `<img width="1919" height="924" alt="image" src="ht
 
 ## 📸 Sample Prediction
 
-![Sample Prediction]()
+![Sample Prediction](<img width="1919" height="924" alt="image" src="https://github.com/user-attachments/assets/28bf9ef6-d69c-4263-8e58-bdeed91fd617" />
+)
 
-*Add your own screenshot here to show the app in action*
+
 
 ## 🔬 Data Science Workflow
 
