@@ -124,7 +124,8 @@ streamlit run app.py
 ```
 
 ### Access the App
-Open your browser and go to: `http://localhost:8501`
+Open your browser and go to: `<img width="1919" height="924" alt="image" src="https://github.com/user-attachments/assets/260d9b58-0b92-4f91-9890-a2a4ff7b84a1" />
+`
 
 ## 📊 Usage
 
@@ -143,7 +144,7 @@ Open your browser and go to: `http://localhost:8501`
 
 ## 📸 Sample Prediction
 
-![Sample Prediction](docs/sample_screenshot.png)
+![Sample Prediction]()
 
 *Add your own screenshot here to show the app in action*
 
@@ -180,3 +181,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ⭐ **Star this repository if you found it helpful!**
+
